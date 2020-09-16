@@ -5,7 +5,7 @@ RSTR: Randomized Scheduled Token Ring (P5-projekt)
 	Kompilerbar/funktionel driver til AWUS036EW
 	Main code-contributions i RSTR\rtl8187\r8187_core.c (linje 3749 og videre, derudover opsætning samt struktur)
 
-	Jeg var alene ansvarlig for koden det semester, så alle fejl kan tilskrives mig.
+Jeg var alene ansvarlig for koden det semester, så alle fejl kan tilskrives mig.
 
 
 LoRaSim: LoRaWAN simulator i python (.ipynb: Jupyter notebook)
